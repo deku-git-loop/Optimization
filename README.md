@@ -16,3 +16,5 @@ Multivariate Constrained Optimization (LP):
 Multivariate Constrained Optimization (QP): ActiveSet&BigM
   
 Multivariate Constrained Optimization (NLP): SQP&PentaltyFunctions
+
+Project: IntegerProgramming
