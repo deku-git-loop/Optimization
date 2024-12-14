@@ -1,5 +1,4 @@
-General:
-  1. Gradient&Hessian
+General: Gradient&Hessian
      
 Univariate Unconstrained Optimization:
   1. SecantMethod
@@ -14,8 +13,6 @@ Multivariate Constrained Optimization (LP):
   1. Production_Scheduling
   2. InteriorPointLP
      
-Multivariate Constrained Optimization (QP):
-  1.ActiveSet&BigM
+Multivariate Constrained Optimization (QP): ActiveSet&BigM
   
-Multivariate Constrained Optimization (NLP):
-  1.SQP&PentaltyFunctions
+Multivariate Constrained Optimization (NLP): SQP&PentaltyFunctions
